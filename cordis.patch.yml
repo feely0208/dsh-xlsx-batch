@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-xlsx-batch 的组合层：装上即注册 xlsx-batch skill
+- insert:
+    - id: xlsx-batch
+      name: '@deepwhale-cn/dsh-xlsx-batch'
